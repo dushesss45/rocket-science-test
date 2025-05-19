@@ -20,7 +20,7 @@
 ## 📦 Установка и запуск
 
 ```bash
-git clone https://github.com/yourname/rocket-science-test.git
+git clone https://github.com/dushesss45/rocket-science-test.git
 cd rocket-science-test
 
 cp .env.example .env
